@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,=======   UK:ENTERTAINMENT LILITH TV   =======
+http://anarchie.fr.free.fr
+#EXTINF:-1,UK: BBC1 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6986.ts
+#EXTINF:-1,UK: BBC2 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8363.ts
+#EXTINF:-1,UK: BBC2
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6987.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13712.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6995.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6998.ts
+#EXTINF:-1,UK: MTV 4 Lilith
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7061.ts 
